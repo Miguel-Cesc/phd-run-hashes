@@ -1,0 +1,10 @@
+{
+  "complete": true,
+  "destination": "github.com/Miguel-Cesc/phd-run-hashes",
+  "incomplete": false,
+  "manifest_sha256": "917bbd264b2121ddb3ae3d1439040bd584d760427d05f3eaaa92716f38cfa396",
+  "run_path": "attest/verify-gates/8533508388d62e6918d2439715ee9d2651d4db23",
+  "schema": "result-hashes-3",
+  "seal_sha256": "917bbd264b2121ddb3ae3d1439040bd584d760427d05f3eaaa92716f38cfa396",
+  "sha256sums": "efddd0566d6a056b5edfc685aecd980d3df61f29a722a80fb46d85936885fd4c  attestation.json\n"
+}
